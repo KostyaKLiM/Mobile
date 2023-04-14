@@ -17,7 +17,6 @@ import { HomeComponent } from './pages/home/home.component';
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    HomeComponent
   ],
   imports: [
     BrowserModule,
